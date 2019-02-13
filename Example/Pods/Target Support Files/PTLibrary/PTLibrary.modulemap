@@ -1,0 +1,6 @@
+framework module PTLibrary {
+  umbrella header "PTLibrary-umbrella.h"
+
+  export *
+  module * { export * }
+}
